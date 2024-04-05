@@ -1,6 +1,6 @@
 # How I Successfully Booted Raspberry CM4 (eMMC Version) on Manta M8P Using a USB Drive
 
-**Why Opt for This Solution?**<br>
+**Why Opt for This Solution?**<br><br>
 Pro:<br>
 Frequent users of SD cards and USB sticks may encounter issues due to lower-spec controllers, leading to corrupted files or boot failures. Having experienced this problem numerous times myself, I've taken the advice of others and opted for a more reliable solution: an SSD drive, or more precisely, a USB-C NVME case.
 
