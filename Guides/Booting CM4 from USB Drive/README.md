@@ -1,4 +1,4 @@
-# How I Successfully Booted Raspberry CM4 (eMMC Version) on Manta M8P Using a USB Drive
+# How I Successfully Booted Raspberry CM4 (eMMC Version) on BTT Manta M8P or similar using a USB Drive
 
 **Why Opt for This Solution?**<br><br>
 Pro:<br>
