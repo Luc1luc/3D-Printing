@@ -12,16 +12,17 @@ For the CM4 Lite, also known as the CM4 non-eMMC variant, this additional config
 # How I Successfully Booted Raspberry CM4 (eMMC Version) using a USB Drive
 The instructions I used were tested on PC with Ubuntu 22.04 and Raspberry Pi OS (64-bit) and also PiOS Lite (64-bit), so i recommend installing an Ubuntu in a VM if youre not already running Ubuntu or similar OS. Maybe i will figure out a windows way in the future.
 
-**Software Preparation:**
-Step 1:
+**Software Preparation:**<br><br>
+**Step 1:** Install required system software package, please open Terminal app and type follow command:
 ```
 sudo apt-get update
 sudo apt install git pkg-config make gcc libusb-1.0-0-dev
 ```
 
-Step 2:
+**Step 2:** Clone and build the usbboot tool repository:
 ```
 cd ~/
 git clone --depth=1 https://github.com/raspberrypi/usbboot
 cd usbboot
+make
 ```
