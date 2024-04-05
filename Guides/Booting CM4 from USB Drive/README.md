@@ -50,7 +50,7 @@ BOOT_ORDER=0xf21564
 # For remote units EEPROM hardware write protection should be used.
 ENABLE_SELF_UPDATE=1
 ```
-The Boot order Numbering is supposed to be Backwards, as you might recognise when looking at the given Boot example in comparison to the table below.
+The Boot order Numbering is supposed to be Backwards, as you might recognise when looking at the given Boot example in comparison to the table below. [Reference](https://www.raspberrypi.com/documentation/computers/raspberry-pi.html#BOOT_ORDER)
 
 <br>
 
