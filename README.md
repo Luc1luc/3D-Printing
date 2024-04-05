@@ -1,7 +1,8 @@
-# 3D-Printing
-My personal documentation, which might be usefull for others who also like to use some out of the "norm" setups.
-
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+# 3D-Printing
+"My personal documentation could be useful for others who also enjoy using "unconventional" setups. Initially, I began creating documentation solely for my own reference, to replicate my setups in case of failures or damages. However, since this process occasionally involved the assistance of others, I decided to 'give something back' by sharing my experiences and lessons learned, allowing others to benefit from my mistakes."
+
+
 
 
 <br/><br/><br/><br/>
