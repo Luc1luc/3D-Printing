@@ -74,6 +74,8 @@ Value |	Mode |	Description
 rm -f pieeprom.original.bin
 curl -L -o pieeprom.original.bin [link to the recent/desired firmware.bin]
 ```
+> [!TIP]
+> Some Users had cases with the Downloaded file  causing issues. In those cases it helped to download it manually with an desktop and browser, rename the file and manually push it to the desired folder.
 <br>
 
 **Step 4:** Combine the EEPROM firmware with the new boot.conf
