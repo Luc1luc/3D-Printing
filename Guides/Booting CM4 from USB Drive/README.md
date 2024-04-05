@@ -20,6 +20,8 @@ sudo apt install git pkg-config make gcc libusb-1.0-0-dev
 ```
 
 Step 2:
-```cd ~/
+```
+cd ~/
 git clone --depth=1 https://github.com/raspberrypi/usbboot
-cd usbboot```
+cd usbboot
+```
