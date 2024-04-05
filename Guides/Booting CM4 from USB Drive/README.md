@@ -9,4 +9,4 @@ While this method generally works well with conventional USB and SSD drives, the
 For the CM4 Lite, also known as the CM4 non-eMMC variant, this additional configuration is unnecessary, as it supports the conventional Raspberry Pi setup using tools like Pi Imager and the USB boot option. However, for the CM4 eMMC version, this configuration is essential and must be done manually, often referred to as the "hardcoded way".
 
 
-# How I Successfully Booted Raspberry CM4 (eMMC Version) on BTT Manta M8P or similar using a USB Drive
+# How I Successfully Booted Raspberry CM4 (eMMC Version) using a USB Drive
