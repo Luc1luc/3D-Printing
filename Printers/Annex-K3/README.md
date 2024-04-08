@@ -15,6 +15,6 @@
 
 # Software
 
-[Beacon Klipper Module](https://docs.beacon3d.com/quickstart/)
+[Beacon Klipper Module](https://docs.beacon3d.com/quickstart/)<br>
 [Klippain Shaketune Module](https://github.com/Frix-x/klippain-shaketune)
 
