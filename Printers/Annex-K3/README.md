@@ -15,9 +15,6 @@
 
 # Software
 
-Beacon Klipper Module install script:
-```
-cd ~
-git clone https://github.com/beacon3d/beacon_klipper.git
-./beacon_klipper/install.sh
-```
+[Beacon Klipper Module](https://docs.beacon3d.com/quickstart/)
+]Klippain Shaketune Module](https://github.com/Frix-x/klippain-shaketune)
+
