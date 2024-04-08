@@ -1,5 +1,4 @@
-Install Beacon Klipper Module¶
-Clone beacon_klipper from git and run the install script:
+Beacon Klipper Module install script:
 ```
 cd ~
 git clone https://github.com/beacon3d/beacon_klipper.git
