@@ -5,14 +5,12 @@
 - Raspi Cam V2 NoIr
 - Karabin3r Toolhead & Breakout Board
 
-**Mechanics**
+**Mechanics/Upgrades**
 - Dragon UHF with 0.5mm Undertaker Nozzle
-- CNC Vz-Hextrudort
-- GT3 Belts for X Axis
-- GT2 for Y Axis
+- CNC Vz-Hextrudort with LDO-36STH20-1004AHG(G10T)
 - LDO-42STH48-2004MAH(ANX) X4
 - LDO-42STH48-2504AH(ANX) X3
-- LDO-36STH20-1004AHG(G10T)
+- GT3 Belts for X Axis
 - Provok3D HT K3 Bed
 
 # Software
