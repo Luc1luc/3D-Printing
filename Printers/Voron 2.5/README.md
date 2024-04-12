@@ -7,7 +7,7 @@
 
 **Mechanics/Upgrades**
 - Dragon UHF with 0.5mm [Undertaker Nozzle](https://alchemy3d.de/de/products/undertaker-tc-nozzle-by-west3d?variant=45044337574154)
-- Custom OMC Motors
+- Custom OMC Motors [17HS19-2504S-H-C9](https://github.com/Luc1luc/3D-Printing/blob/main/Printers/Voron%202.5/17HS19-2504S-H-C9%20Datasheet.pdf)
 
 # Software
 
