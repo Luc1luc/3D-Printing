@@ -6,7 +6,7 @@
 - Karabin3r Toolhead & Breakout Board
 
 **Mechanics/Upgrades**
-- Dragon UHF with 0.5mm [Undertaker Nozzle](https://alchemy3d.de/de/products/undertaker-tc-nozzle-by-west3d?variant=45044337574154)
+- Dragon HF with 0.5mm [Undertaker Nozzle](https://alchemy3d.de/de/products/undertaker-tc-nozzle-by-west3d?variant=45044337574154)
 - CNC Vz-Hextrudort with LDO-36STH20-1004AHG(G10T)
 - LDO-42STH48-2004MAH(ANX) X4
 - LDO-42STH48-2504AH(ANX) X3
