@@ -2,7 +2,7 @@
 **Electronics:**
 - Manta M8P V2 + CM4 + M.2 Nvme Case
 - Meanwell UHP-200-24 & UHP-200-48
-- Raspi Cam V2 NoIr
+- Raspi Cam V2
 - Karabin3r Toolhead & Breakout Board
 
 **Mechanics/Upgrades**
